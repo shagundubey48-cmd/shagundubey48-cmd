@@ -1,93 +1,101 @@
 <h1 align="center">Hi 👋, I'm Shagun Dubey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;C%2B%2B+Developer;AI%2FML+Enthusiast;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Data+Analyst;C%2B%2B+Developer;AI%2FML+Enthusiast;Building+Projects+and+Learning+Everyday+🚀" />
 </p>
 
-<h3 align="center">💻 Data Analyst | 🤖 AI/ML Learner | 🚀 Tech Enthusiast</h3>
+<h3 align="center">💻 Data Analyst | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer</h3>
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shagun-dubey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shagundubey109@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shagun-dubey/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:shagundubey109@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me:
+## 🧠 About Me
 
-* 🎓 B.Tech CSE Student
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 📊 Passionate about Data Analytics
-* 💻 Strong in C, C++, Java
-* 🚀 Building real-world tech projects
-
----
-
-## ⚡ Tech Stack:
-
-### 💻 Languages:
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🗄️ Database:
-
-<p>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
-### 🌐 Web:
-
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 📊 Data & AI/ML:
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow"/>
-</p>
+- 🎓 B.Tech CSE Student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Passionate about Data Analytics & Visualization
+- 💻 Skilled in C, C++, Java & Python
+- 🚀 Building real-world projects and improving every day
 
 ---
 
-## 📈 GitHub Stats:
+## ⚡ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagundubey48-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img src="https://streak-stats.demolab.com?user=shagundubey48-cmd&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-## 🚀 Top Languages:
+### 🌐 Web Development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagundubey48-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+### 📊 Data Science & AI/ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </p>
 
 ---
 
-## 👀 Profile Views:
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shagundubey48-cmd&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shagundubey48-cmd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=shagundubey48-cmd&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagundubey48-cmd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-## ✨ Fun Fact:
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shagundubey48-cmd&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shagundubey48-cmd&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## ✨ Fun Fact
 
 > I turn coffee ☕ into code 💻 and data into insights 📊
