@@ -238,7 +238,7 @@ Where algorithms meet unnecessarily difficult problems. 😭
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,fastapi,flask,mysql,postgresql,git,github,docker,linux,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,fastapi,flask,mysql,postgresql,git,github,docker,linux,vscode&perline=7"/>
 
 </p>
 
