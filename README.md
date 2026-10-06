@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://komarev.com/ghpvc/?username=shagundubey48-cmd&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"
     alt="Profile Views"
   />
